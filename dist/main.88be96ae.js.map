@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["aFunc","console","log"],"mappings":";AACA,SAASA,IACLC,QAAQC,IAAI,iBAFhBF","file":"main.88be96ae.js","sourceRoot":"../src","sourcesContent":["aFunc()\nfunction aFunc(){\n    console.log('hello bitches');\n}"]}
