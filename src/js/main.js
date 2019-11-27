@@ -4,9 +4,5 @@ function binarySearch() {
     console.log('hello');
 }
 
-// console.log('wchaosdksodk');
-// console.log('check check');
-
-
 
 $("#binary-search").click(() => binarySearch());
