@@ -1,7 +1,7 @@
 {
   "name": "algorithms101",
   "version": "1.0.0",
-  "description": "#Content and updates coming soon....",
+  "description": "Algorithms 101 Project",
   "main": "index.js",
   "scripts": {
     "start": "node server",

@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["binarySearch","console","log"],"mappings":";AAAA,SAASA,IACLC,QAAQC,IAAI","file":"main.5e3e5ffc.js","sourceRoot":"../src","sourcesContent":["function binarySearch() {\n    console.log('hello');\n}"]}

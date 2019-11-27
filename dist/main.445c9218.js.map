@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["binarySearch","console","log","$","click"],"mappings":";AAAA,SAASA,IACLC,QAAQC,IAAI,SAGhBC,EAAE,kBAAkBC,MAAM,WAAMJ,OAAAA","file":"main.445c9218.js","sourceRoot":"../src","sourcesContent":["function binarySearch() {\n    console.log('hello');\n}\n\n$(\"#binary-search\").click(() => binarySearch());"]}
