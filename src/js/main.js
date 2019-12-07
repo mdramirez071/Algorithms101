@@ -47,5 +47,5 @@ else document.write("Element not found!<br>");
 $("#binary-search").click(() => binarySearch());
 
 
-//Linked-List Examples 
+//Linked-List Examples (4)
 
