@@ -51,3 +51,7 @@ $("#binary-search").click(() => binarySearch());
 
 //Linked-List Examples
 
+//HashMap Example
+
+//Stacks and Queues Examples
+
