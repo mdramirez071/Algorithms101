@@ -49,9 +49,11 @@ else document.write("Element not found!<br>");
 $("#binary-search").click(() => binarySearch());
 
 
-//Linked-List Examples
+//Linked-List Examples 
 
 //HashMap Example
 
 //Stacks and Queues Examples
+
+//Recursion Examples
 
