@@ -55,5 +55,5 @@ $("#binary-search").click(() => binarySearch());
 
 //Stacks and Queues Examples
 
-//Recursion Example
+//Recursion Examples
 
